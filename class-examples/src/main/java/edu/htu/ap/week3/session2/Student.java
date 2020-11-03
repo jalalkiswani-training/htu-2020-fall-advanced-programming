@@ -12,8 +12,8 @@ public class Student {
 	public Student() {	
 	}
 	
-	/*Constructor overloading....: having more than one construcotr
-	In this case, the method signature should be differnt
+	/* Constructor overloading....: having more than one construcotr
+	   In this case, the method signature should be different
 	*/
 	//constructor
 	public Student(int number,String name, double avg, String email) {
