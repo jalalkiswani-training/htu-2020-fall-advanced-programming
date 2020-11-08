@@ -6,8 +6,12 @@ public class Test {
 		m.setId(1);//Person
 		m.setName("Ata");//Person
 		m.setAge(50);//Person
-		m.setSalary(1000);//Employee
+		m.setBaseSalary(1000);//Employee
+		m.setAllownces(100);
+		m.setDeductions(50);
 		m.setDepartment("IT");//Manager
+//		int salary=m.getBaseSalary()+m.getAllownces()-m.getDeductions();
+		System.out.println(m.calculateSalary());
 		
 		m.hi();
 		
@@ -17,6 +21,11 @@ public class Test {
 		
 		Employee emp=new Employee();
 		emp.setName("Essa");
+		emp.setBaseSalary(500);
+		emp.setDeductions(40);
+		emp.setAllownces(30);
+//		int salary2=emp.getBaseSalary()+emp.getAllownces()-emp.getDeductions();
+		System.out.println(emp.calculateSalary());
 		emp.hi();
 	}
 }
