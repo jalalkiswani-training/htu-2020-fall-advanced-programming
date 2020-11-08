@@ -67,4 +67,9 @@ public class Student {
 		this.email = email;
 	}
 
+	@Override
+	protected void finalize() throws Throwable {
+		// TODO Auto-generated method stub
+		super.finalize();
+	}
 }
