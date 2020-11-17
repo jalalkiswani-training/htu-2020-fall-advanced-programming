@@ -1,4 +1,4 @@
-package edu.htu.ap.week4.session2.wiretransfer;
+package edu.htu.ap.week5.session2.wiretransfer;
 
 public class Currency {
 	private String shortCode;

@@ -1,6 +1,6 @@
-package edu.htu.ap.week4.session2.wiretransfer;
+package edu.htu.ap.week5.session2.wiretransfer;
 
-import edu.htu.ap.week4.session2.wiretransfer.WireTransfer.Status;
+import edu.htu.ap.week5.session2.wiretransfer.WireTransfer.Status;
 
 public class Test {
 
