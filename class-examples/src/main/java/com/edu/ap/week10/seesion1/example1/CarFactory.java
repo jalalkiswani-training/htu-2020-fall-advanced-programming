@@ -1,4 +1,4 @@
-package com.edu.ap.week10.seesion1;
+package com.edu.ap.week10.seesion1.example1;
 
 public class CarFactory {
 	public static Car createMercedes(String vin, int year) {
