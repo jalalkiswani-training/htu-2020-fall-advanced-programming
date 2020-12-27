@@ -1,4 +1,4 @@
-package com.edu.ap.week10.seesion1.example1;
+package edu.htu.ap.week10.seesion1.example1;
 
 public class Engine {
 	private int valves;

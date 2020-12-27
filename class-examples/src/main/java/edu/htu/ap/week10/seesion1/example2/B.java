@@ -1,4 +1,4 @@
-package com.edu.ap.week10.seesion1.example2;
+package edu.htu.ap.week10.seesion1.example2;
 
 public class B {
 	public void method1() {
