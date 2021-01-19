@@ -1,4 +1,4 @@
-package edu.htu.ap.week14.seesion1.example1;
+package edu.htu.ap.week15.seesion1.example1;
 
 public class CoffeeTest {
 	public static void main(String[] args) {

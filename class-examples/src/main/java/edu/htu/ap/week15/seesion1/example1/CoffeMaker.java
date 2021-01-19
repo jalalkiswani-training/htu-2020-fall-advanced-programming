@@ -1,4 +1,4 @@
-package edu.htu.ap.week14.seesion1.example1;
+package edu.htu.ap.week15.seesion1.example1;
 
 public class CoffeMaker {
 	public static final int MIN_SUGAR_AMOUNT = 5;
